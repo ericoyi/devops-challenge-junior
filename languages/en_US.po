@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "Pau que nasce torto nunca se endireita"
+msgstr "A crooked stick never straightens"
+
+msgid "Menina que requebra a mãe pega na cabeça"
+msgstr "A girl who dances, her mother holds her head"
+
+msgid "Domingo ela não vai (vai, vai)"
+msgstr "On Sunday she doesn’t go (go, go)"
+
+msgid "Domingo ela não vai não (vai, vai, vai)"
+msgstr "On Sunday she really doesn’t go (go, go, go)"
+
+msgid "Olha, domingo ela não vai (vai, vai)"
+msgstr "Look, on Sunday she doesn’t go (go, go)"
+
+msgid "O pau que nasce torto nunca se endireita"
+msgstr "A crooked stick never straightens"
+
+msgid "Segure o tchan"
+msgstr "Hold the rhythm"
+
+msgid "Amarre o tchan"
+msgstr "Tie the rhythm"
+
+msgid "Segure o tchan tchan tchan tchan"
+msgstr "Hold the rhythm tchan tchan tchan tchan"
+
+msgid "Depois de nove meses você vê o resultado"
+msgstr "“After nine months, you see the result"
+
+msgid "Esse é o Gera Samba arrebentando no pedaço"
+msgstr "This is Gera Samba rocking the place"
+
+msgid "Joga ela no meio, mete em cima, mete embaixo"
+msgstr "Throw her in the middle, hit up, hit down"
+
+msgid "Nenhuma frase encontrada"
+msgstr "No phrase found"
+
+msgid "O texto é:"
+msgstr "The text is:"

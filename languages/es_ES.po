@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "Pau que nasce torto nunca se endireita"
+msgstr "Una rama torcida nunca se endereza"
+
+msgid "Menina que requebra a mãe pega na cabeça"
+msgstr "Una niña que baila, su madre le agarra la cabeza"
+
+msgid "Domingo ela não vai (vai, vai)"
+msgstr "El domingo no va (va, va)"
+
+msgid "Domingo ela não vai não (vai, vai, vai)"
+msgstr "El domingo no va de verdad (va, va, va)"
+
+msgid "Olha, domingo ela não vai (vai, vai)"
+msgstr "Mira, el domingo no va (va, va)"
+
+msgid "O pau que nasce torto nunca se endireita"
+msgstr "Una rama torcida nunca se endereza"
+
+msgid "Segure o tchan"
+msgstr "Sujeta el ritmo"
+
+msgid "Amarre o tchan"
+msgstr "Ata el ritmo"
+
+msgid "Segure o tchan tchan tchan tchan"
+msgstr "Sujeta el ritmo tchan tchan tchan tchan"
+
+msgid "Depois de nove meses você vê o resultado"
+msgstr "Después de nueve meses, ves el resultado"
+
+msgid "Esse é o Gera Samba arrebentando no pedaço"
+msgstr "Este es Gera Samba rompiendo el lugar"
+
+msgid "Joga ela no meio, mete em cima, mete embaixo"
+msgstr "Tírala al medio, ponla arriba, ponla abajo"
+
+msgid "Nenhuma frase encontrada"
+msgstr "Ninguna frase encontrada"
+
+msgid "O texto é:"
+msgstr "El texto es:"
